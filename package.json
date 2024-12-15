@@ -1,0 +1,11 @@
+{
+    "name": "zavd8",
+    "version": "0.0.1",
+    "description": "my first socket.io app",
+    "type": "commonjs",
+    "dependencies": {
+        "express": "^4.21.0",
+    "socket.io": "^4.8.1",
+    "ws": "^8.18.0"
+    }
+}
